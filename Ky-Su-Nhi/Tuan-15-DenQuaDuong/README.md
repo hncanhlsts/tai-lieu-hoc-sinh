@@ -1,4 +1,4 @@
-# Tuần 15 · Dự án chặng: Đèn qua đường có nút xin đường
+# Tuần 15
 
 Bấm vào tên file để tải về.
 

@@ -5,18 +5,15 @@ Kho chứa file bài làm (khung bài tập, phiếu, .hex, .sb3, .py) và tài 
 Kho này không chứa lời giải hay tài liệu dành cho giáo viên.
 
 ## [Kỹ sư Nhí (lớp 6)](Ky-Su-Nhi/)
-- [Tuần 15 · Dự án chặng: Đèn qua đường có nút xin đường](Ky-Su-Nhi/Tuan-15-DenQuaDuong/)
-- [Tuần 16 · Núm xoay Potentio Bit: Đuổi bắt và hẹn giờ chỉnh được](Ky-Su-Nhi/Tuan-16-HenGioChinhDuoc/)
-- [Tuần 16 · Xúc xắc hồng ngoại và máy nhắc ngồi thẳng lưng](Ky-Su-Nhi/Tuan-16-XucXacHongNgoai/)
+- [Tuần 15](Ky-Su-Nhi/Tuan-15-DenQuaDuong/)
+- [Tuần 16](Ky-Su-Nhi/Tuan-16-HenGioChinhDuoc/)
+- [Tuần 16](Ky-Su-Nhi/Tuan-16-XucXacHongNgoai/)
 
 ## [Nghiên cứu khoa học lớp 8](NCKH-8/)
 - [Tuần 15 · Khắc phục lỗi và Báo cáo sản phẩm lần 2](NCKH-8/Tuan-15/)
 
 ## [Thiết kế Game](Thiet-Ke-Game/)
 - [Tuần 15 · Trạng thái nhân vật bằng Page: Boss nhiều giai đoạn](Thiet-Ke-Game/Tuan-15-BossNhieuGiaiDoan/)
-
-## [ThietKeGame](ThietKeGame/)
-- [Tuan15_BossNhieuGiaiDoan](ThietKeGame/Tuan15_BossNhieuGiaiDoan/)
 
 ## [Tin học 10](Tin-10/)
 - [Tuần 15 · Luyện tập vòng lặp trên danh sách](Tin-10/Tuan-15-LuyenTapDanhSach/)

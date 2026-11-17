@@ -1,4 +1,4 @@
-# Tuần 16 · Núm xoay Potentio Bit: Đuổi bắt và hẹn giờ chỉnh được
+# Tuần 16
 
 Bấm vào tên file để tải về.
 

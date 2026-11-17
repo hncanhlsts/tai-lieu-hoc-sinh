@@ -1,4 +1,4 @@
-# Tuần 16 · Xúc xắc hồng ngoại và máy nhắc ngồi thẳng lưng
+# Tuần 16
 
 Bấm vào tên file để tải về.
 
