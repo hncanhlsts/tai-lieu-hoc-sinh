@@ -1,9 +1,30 @@
 # Tài liệu học sinh
 
-Kho chứa **file bài làm của học sinh** (khung bài tập, phiếu học tập, file .hex/.sb3/.py làm dở) và **tài liệu học tập sau buổi học** cho các môn: Thiết kế Game, Kỹ sư Nhí, Tin 6, Tin 10, Tin 11, NCKH, FLL.
+Kho chứa file bài làm (khung bài tập, phiếu, .hex, .sb3, .py) và tài liệu học tập sau buổi học. Chọn môn của em, rồi chọn tuần. Bấm vào tên file rồi bấm nút tải về (Download raw file).
 
-Các trang Canvas liên kết thẳng tới file trong kho này (`https://github.com/hncanhlsts/tai-lieu-hoc-sinh/raw/main/<Môn>/<Tuần>/<tên file>`), nên khi file được cập nhật thì link trên Canvas luôn trỏ tới bản mới nhất.
+Kho này không chứa lời giải hay tài liệu dành cho giáo viên.
 
-Cấu trúc: `<Môn>/Tuan<NN>_<ChuDe>/<file>`.
+## [Kỹ sư Nhí (lớp 6)](Ky-Su-Nhi/)
+- [Tuần 15 · Dự án chặng: Đèn qua đường có nút xin đường](Ky-Su-Nhi/Tuan-15-DenQuaDuong/)
+- [Tuần 16 · Núm xoay Potentio Bit: Đuổi bắt và hẹn giờ chỉnh được](Ky-Su-Nhi/Tuan-16-HenGioChinhDuoc/)
+- [Tuần 16 · Xúc xắc hồng ngoại và máy nhắc ngồi thẳng lưng](Ky-Su-Nhi/Tuan-16-XucXacHongNgoai/)
 
-Kho này **không** chứa lời giải hay tài liệu dành cho giáo viên.
+## [Nghiên cứu khoa học lớp 8](NCKH-8/)
+- [Tuần 15 · Khắc phục lỗi và Báo cáo sản phẩm lần 2](NCKH-8/Tuan-15/)
+
+## [Thiết kế Game](Thiet-Ke-Game/)
+- [Tuần 15 · Trạng thái nhân vật bằng Page: Boss nhiều giai đoạn](Thiet-Ke-Game/Tuan-15-BossNhieuGiaiDoan/)
+
+## [ThietKeGame](ThietKeGame/)
+- [Tuan15_BossNhieuGiaiDoan](ThietKeGame/Tuan15_BossNhieuGiaiDoan/)
+
+## [Tin học 10](Tin-10/)
+- [Tuần 15 · Luyện tập vòng lặp trên danh sách](Tin-10/Tuan-15-LuyenTapDanhSach/)
+- [Tuần 16 · Ôn tập cuối kì 1](Tin-10/Tuan-16-OnTapCuoiKi1/)
+
+## [Tin học 11](Tin-11/)
+- [Luyện tập 8 dạng bài thi - Lập trình hướng đối tượng](Tin-11/OnTap-CuoiKi1/)
+- [Tuần 15 · Ôn tập Kế thừa và Đa hình - Giới thiệu Đóng gói](Tin-11/Tuan-15-OnTap-DongGoi/)
+
+## [Tin học 6](Tin-6/)
+- [Tuần 15 · Ôn tập tổng hợp Scratch - Khối lệnh cơ bản và khối lệnh cốt lõi](Tin-6/Tuan-15-OnTapScratch/)
