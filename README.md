@@ -26,3 +26,4 @@ Kho này không chứa lời giải hay tài liệu dành cho giáo viên.
 ## [Tin học 6](Tin-6/)
 - [Tuần 15 · Ôn tập tổng hợp Scratch - Khối lệnh cơ bản và khối lệnh cốt lõi](Tin-6/Tuan-15-OnTapScratch/)
 - [Tuần 16 · Thực hành Scratch - Hai trò chơi theo cấu trúc đề cuối kì](Tin-6/Tuan-16-ThucHanhScratch/)
+- [Tuần 17 · Tuần 17 · Thực hành tổng hợp](Tin-6/Tuan-17-ThucHanhTongHop/)
