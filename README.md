@@ -15,6 +15,8 @@ Kho này không chứa lời giải hay tài liệu dành cho giáo viên.
 
 ## [Thiết kế Game](Thiet-Ke-Game/)
 - [Tuần 15 · Trạng thái nhân vật bằng Page: Boss nhiều giai đoạn](Thiet-Ke-Game/Tuan-15-BossNhieuGiaiDoan/)
+- [Tuần 17 · Ôn tập cuối kì: Từ luật Kodu đến game hoàn chỉnh](Thiet-Ke-Game/Tuan-17-OnTapCuoiKi/)
+- [Tuần 18 · Kiểm tra thực hành cuối kì: Thiết kế game Kodu hoàn chỉnh](Thiet-Ke-Game/Tuan-18-KiemTraCuoiKi/)
 
 ## [Tin học 10](Tin-10/)
 - [Tuần 15 · Luyện tập vòng lặp trên danh sách](Tin-10/Tuan-15-LuyenTapDanhSach/)
