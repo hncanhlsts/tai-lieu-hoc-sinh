@@ -11,6 +11,7 @@ Kho này không chứa lời giải hay tài liệu dành cho giáo viên.
 
 ## [Nghiên cứu khoa học lớp 8](NCKH-8/)
 - [Tuần 15 · Khắc phục lỗi và Báo cáo sản phẩm lần 2](NCKH-8/Tuan-15/)
+- [Tuần 17 · Poster và Slide và tập bảo vệ](NCKH-8/Tuan-17-PosterSlideBaoVe/)
 
 ## [Thiết kế Game](Thiet-Ke-Game/)
 - [Tuần 15 · Trạng thái nhân vật bằng Page: Boss nhiều giai đoạn](Thiet-Ke-Game/Tuan-15-BossNhieuGiaiDoan/)
